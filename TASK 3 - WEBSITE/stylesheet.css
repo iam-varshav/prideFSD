@@ -1,0 +1,99 @@
+body {
+    font-family: sans-serif;
+   
+}
+
+.nav{
+    background-color: #2874F0;
+    height: 30px;
+    width: 100%;
+    float: left;
+    display: inline-block;
+}
+.nav a {
+    color: white;
+    float: left;
+    font-size:smaller;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.nav a.split {
+    float: right;
+    color: white;
+    font-size: smaller;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+.nav2 {
+    height: 8vh;
+    width: 100%;
+}
+.nav2 input {
+    padding: 8px 60px;
+
+}
+.nav2 .search button {
+    color: white;
+    background-color: #2874F0;
+    border: none;
+    padding: 7px 7px;
+}
+.icon {
+    float: right;
+    color: grey;
+    text-align: center;
+    padding: 11px 11px;
+    align-items: center;
+}
+.nav2 {
+    height: 7%;
+    width: 100%;
+    background-color: white;
+    color: black;
+    border: 1px solid #ccc;
+}
+.nav3 {
+    background: linear-gradient(to left, rgb(13, 198, 235), rgb(250, 91, 250), #f64cc0);
+    height: 6vh;
+    width: 97%;
+    text-align: center;
+    padding: 50px 12px;
+    -webkit-text-fill-color: white;
+    border-spacing: 10px;
+    border-collapse: separate;
+
+}
+.nav4 {
+   width: 100%;
+   height: 7vh;
+   border: 1px solid #ccc;
+   padding: 5px 18px;
+   border-radius: 1px;
+   border-spacing: 10px;
+   border-collapse: separate;
+}
+.images {
+    width: 100%;
+    height: 3vh;
+    border-radius: 1px;
+    border: 1px solid #ccc;
+}
+.rating {
+    font-size: smaller;
+}
+.checked {
+    color: yellow;
+}
+.notchecked {
+    color: grey;
+}
+.images1 {
+    width: 100%;
+    height: 3vh;
+    border-radius: 1px;
+    border: 1px solid #ccc;
+}
+
+
+
